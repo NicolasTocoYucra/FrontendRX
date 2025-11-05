@@ -9,7 +9,6 @@ import Home from './pages/Home';
 import VistaPerfil from './pages/Profile';
 import EditarPerfilPage from './pages/EditarPerfilPage';
 import MyRepositoriesPage from './features/repository/pages/MyRepositoriesPage';
-import FileUserRepos from './features/repository/pages/FileUserRepos';
 import NotificationsPage from './pages/NotificationsPage'; 
 import UsersPage from './pages/UsersPage';
 import UserDetailPage from "./pages/UserDetailPage";
